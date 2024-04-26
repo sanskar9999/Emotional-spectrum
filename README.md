@@ -6,11 +6,14 @@ A project designed to explore and analyze a list of emotions using various techn
 The project consists of several Python scripts, each serving a specific purpose:
 
 1. `emotions_wordcloud.py`: Generates a word cloud visualizing the list of emotions.
+![Wordcloud](download.png)
 2. `emotions_descriptions.py`: Provides descriptions for each emotion and allows exploration of emotions interactively.
 3. `emotions_clustering.py`: Performs K-Means clustering on the emotions and visualizes the results using a dendrogram.
+![Clustering](download2.png)
 4. `emotions_occurrence.py`: Counts the occurrence of each emotion in WordNet and creates a bar chart.
+![Occurance](download3.png)
 5. `emotions_similarity_heatmap.py`: Calculates the semantic similarity between emotions and creates a heatmap to visualize the similarity matrix.
-
+![Heatmap](download4.png)
 To run any of these scripts, simply execute them using Python from the command line or your preferred IDE.
 
 The Human emotionals which we covered in the spectrum, in order from intense positive to neutral to intense negative emotions, are as follows:
