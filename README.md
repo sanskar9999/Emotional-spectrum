@@ -3,7 +3,7 @@ Analysis of the human emotional spectrum
 
 A project designed to explore and analyze a list of emotions using various techniques including word clouds, descriptive analysis, clustering, and visualization. This project aims to provide insights into the rich landscape of human emotions, their descriptions, occurrences, and relationships.
 
-The Human emotional spectrum, sorted in order from intense positive to neutral to intense negative emotions: 
+The Human emotional spectrum, in order from intense positive to neutral to intense negative emotions: 
 1. Euphoria
 2. Ecstasy
 3. Joy
