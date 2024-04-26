@@ -3,7 +3,18 @@ Analysis of the human emotional spectrum
 
 A project designed to explore and analyze a list of emotions using various techniques including word clouds, descriptive analysis, clustering, and visualization. This project aims to provide insights into the rich landscape of human emotions, their descriptions, occurrences, and relationships.
 
-The Human emotional spectrum, in order from intense positive to neutral to intense negative emotions: 
+The project consists of several Python scripts, each serving a specific purpose:
+
+1. `emotions_wordcloud.py`: Generates a word cloud visualizing the list of emotions.
+2. `emotions_descriptions.py`: Provides descriptions for each emotion and allows exploration of emotions interactively.
+3. `emotions_clustering.py`: Performs K-Means clustering on the emotions and visualizes the results using a dendrogram.
+4. `emotions_occurrence.py`: Counts the occurrence of each emotion in WordNet and creates a bar chart.
+5. `emotions_similarity_heatmap.py`: Calculates the semantic similarity between emotions and creates a heatmap to visualize the similarity matrix.
+
+To run any of these scripts, simply execute them using Python from the command line or your preferred IDE.
+
+The Human emotionals which we covered in the spectrum, in order from intense positive to neutral to intense negative emotions, are as follows:
+ 
 1. Euphoria
 2. Ecstasy
 3. Joy
@@ -39,16 +50,6 @@ The Human emotional spectrum, in order from intense positive to neutral to inten
 33. Rage
 34. Despair
 35. Hopelessness
-
-The project consists of several Python scripts, each serving a specific purpose:
-
-1. `emotions_wordcloud.py`: Generates a word cloud visualizing the list of emotions.
-2. `emotions_descriptions.py`: Provides descriptions for each emotion and allows exploration of emotions interactively.
-3. `emotions_clustering.py`: Performs K-Means clustering on the emotions and visualizes the results using a dendrogram.
-4. `emotions_occurrence.py`: Counts the occurrence of each emotion in WordNet and creates a bar chart.
-5. `emotions_similarity_heatmap.py`: Calculates the semantic similarity between emotions and creates a heatmap to visualize the similarity matrix.
-
-To run any of these scripts, simply execute them using Python from the command line or your preferred IDE.
 
 ## Description <a name="description"></a>
 The project begins with the generation of a word cloud representing the list of emotions. Each emotion is visualized with a font size proportional to its importance or frequency in the list.
