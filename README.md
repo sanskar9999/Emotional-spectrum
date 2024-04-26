@@ -1,10 +1,44 @@
 # Emotional-spectrum
 Analysis of the human emotional spectrum
 
-# Emotion Explorer
+A project designed to explore and analyze a list of emotions using various techniques including word clouds, descriptive analysis, clustering, and visualization. This project aims to provide insights into the rich landscape of human emotions, their descriptions, occurrences, and relationships.
 
-## Overview
-The Emotion Explorer is a project designed to explore and analyze a list of emotions using various techniques including word clouds, descriptive analysis, clustering, and visualization. This project aims to provide insights into the rich landscape of human emotions, their descriptions, occurrences, and relationships.
+The Human emotional spectrum, sorted in order from intense positive to neutral to intense negative emotions: 
+1. Euphoria
+2. Ecstasy
+3. Joy
+4. Love
+5. Happiness
+6. Gratitude
+7. Contentment
+8. Hope
+9. Pride
+10. Amusement
+11. Wonder
+12. Curiosity
+13. Awe
+14. Nostalgia
+15. Serenity
+16. Calmness
+17. Surprise
+18. Anticipation
+19. Boredom
+20. Ambivalence
+21. Confusion
+22. Melancholy
+23. Longing
+24. Disappointment
+25. Regret
+26. Envy
+27. Sadness
+28. Anxiety
+29. Fear
+30. Frustration
+31. Anger
+32. Resentment
+33. Rage
+34. Despair
+35. Hopelessness
 
 The project consists of several Python scripts, each serving a specific purpose:
 
